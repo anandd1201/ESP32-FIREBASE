@@ -7,12 +7,12 @@
 #include "addons/RTDBHelper.h"
 
 // 1. Define WiFi Credentials
-#define WIFI_SSID "Semicon ACT"
-#define WIFI_PASSWORD "cracksen1605"
+#define WIFI_SSID "your_ssid"
+#define WIFI_PASSWORD "your_password"
 
 // 2. Define Firebase Credentials
-#define API_KEY "AIzaSyDREfmxpQPR7c6H4l3JrW-Fx57IMagRoZg"
-#define DATABASE_URL "https://test2-34c2b-default-rtdb.firebaseio.com/"
+#define API_KEY "your_api_key"
+#define DATABASE_URL "your_database_url"
 
 // Define Firebase Data objects
 FirebaseData fbdo;
